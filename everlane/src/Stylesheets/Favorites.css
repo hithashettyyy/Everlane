@@ -1,0 +1,23 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+    margin-top:17rem;
+    border: 1px solid black;
+    padding: 2rem;
+    align-items: center;
+    width:fit-content
+}
+
+#fav{
+    margin-top:6rem;
+}
+
+#fav-count{
+    font-family: "Mulish", sans-serif; 
+    font-weight: 500;
+}
+
+h3{
+    padding-left: 2rem;
+}

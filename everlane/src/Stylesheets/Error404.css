@@ -1,0 +1,13 @@
+#error-container{
+     margin-top:6rem;
+     width:100%;
+     height:100%;
+     overflow-y: hidden;
+}
+
+#error{
+    max-width: 100vw;
+    max-height: calc(100vh-96px);
+    object-fit: cover;
+    overflow-y: hidden;
+}

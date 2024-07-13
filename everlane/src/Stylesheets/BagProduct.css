@@ -1,0 +1,25 @@
+#bag-product{
+    display: flex;
+    flex:1 1 1
+}
+
+p,h4{
+    margin : 5px;
+    font-family: "Mulish", sans-serif; 
+}
+
+.amount{
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+.return,.delivery{
+    font-size: 0.7rem;
+}
+
+#bag-btn-div{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

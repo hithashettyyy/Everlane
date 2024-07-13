@@ -1,0 +1,61 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+    border: 1px solid black;
+    padding: 2rem;
+    align-items: center;
+}
+
+.login > button{
+    width : 70%
+}
+
+#bag-container{
+    display: flex;
+}
+
+
+#empty-bag-div{
+    margin: auto;
+    margin-top:10%;
+    width: 50%;
+    text-align: center;
+}
+
+#go-to-faves{
+    border: none;
+    background-color:black;
+    color: white;
+    height: 4rem;
+    width: 15rem;
+    font-family: "Mulish", sans-serif; 
+    font-size: larger;
+    cursor: pointer;
+}
+
+#go-to-faves:hover{
+    border: 3px solid black;
+    background-color: white;
+    color: black;
+}
+
+h2,h3{
+    font-family: "Mulish", sans-serif; 
+}
+
+#bag-summary{
+    width: 50rem;
+}
+
+#bag-summary  p{
+    font-size: small
+}
+
+#place-order{
+    background-color: black;
+    color: white;
+    width: 65%;
+    text-align: center;
+}
+

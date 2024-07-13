@@ -1,0 +1,18 @@
+
+button{
+    all: unset;
+    text-align: center;
+    font-family: "Mulish", sans-serif; 
+    border: 1px solid black;
+    background-color: white;
+    color:black;
+    font-weight: bold;
+    font-size: smaller;
+    margin:0.5rem;
+    padding: 0.3rem;
+    cursor: pointer;
+}
+
+button:hover{
+    opacity: 0.6;
+}
